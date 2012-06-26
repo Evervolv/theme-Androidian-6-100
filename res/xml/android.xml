@@ -16,6 +16,7 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
     <item name="drawable/btn_default_pressed">@drawable/frameworks_res_btn_default_pressed</item>
     <item name="drawable/btn_default_selected">@drawable/frameworks_res_btn_default_selected</item>
     <item name="drawable/btn_default_normal_disable_focused">@drawable/frameworks_res_btn_default_normal_disable_focused</item>
