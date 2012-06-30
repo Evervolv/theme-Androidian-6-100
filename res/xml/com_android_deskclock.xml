@@ -27,8 +27,6 @@
     <item name="drawable/btn_in_call_round_selected">@drawable/com_android_deskclock_btn_in_call_round_selected</item>
     <item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_deskclock_btn_in_call_round_disable_focused</item>
     <item name="drawable/ic_indicator_on">@drawable/com_android_deskclock_ic_indicator_on</item>
-    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
-    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
     <item name="mipmap/ic_launcher_alarmclock">@drawable/com_android_deskclock_ic_launcher_alarmclock</item>
     <item name="mipmap/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
 </resource-redirections>
