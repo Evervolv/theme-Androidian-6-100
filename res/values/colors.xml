@@ -72,6 +72,16 @@
     <color name="perms_dangerous_perm_color">#ff66cc00</color>
     <color name="shadow">#cc222222</color>
 
+    <!-- Browser -->
+    <color name="browser_bookmarkWidgetHeader">#384738</color>
+    <color name="browser_bookmarkWidgetDivider">#384738</color>
+    <color name="browser_bookmarkWidgetItemBackground">#2b3c2b</color>
+    <color name="browser_bookmarkWidgetFolderBackground">#F0384738</color>
+    <color name="browser_qc_normal">#F0749333</color>
+    <color name="browser_qc_selected">#F0485a20</color>
+    <color name="browser_qc_tab_nr">#F092be32</color>
+
+    <!-- Launcher -->
     <color name="launcher_info_hover_tint">#DA99CC00</color>
 
     <color name="androidian_green">#ff99cc00</color>

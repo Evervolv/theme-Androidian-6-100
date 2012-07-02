@@ -17,4 +17,22 @@
 
 <resource-redirections>
     <item name="mipmap/ic_launcher_browser">@drawable/com_android_browser_ic_launcher_browser</item>
+    <item name="color/bookmarkWidgetHeader">@color/browser_bookmarkWidgetHeader</item>
+    <item name="color/bookmarkWidgetDivider">@color/browser_bookmarkWidgetDivider</item>
+    <item name="color/bookmarkWidgetItemBackground">@color/browser_bookmarkWidgetItemBackground</item>
+    <item name="color/bookmarkWidgetFolderBackground">@color/browser_bookmarkWidgetFolderBackground</item>
+    <item name="color/qc_normal">@color/browser_qc_normal</item>
+    <item name="color/qc_selected">@color/browser_qc_selected</item>
+    <item name="color/qc_tab_nr">@color/browser_qc_tab_nr</item>
+    <item name="drawable/bg_browsertabs">@drawable/com_android_browser_bg_browsertabs</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/com_android_browser_bookmarks_widget_thumb_selector_focused</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_pressed</item>
+    <item name="drawable/browsertab_add">@drawable/com_android_browser_browsertab_add</item>
+    <item name="drawable/browsertab_add_focused">@drawable/com_android_browser_browsertab_add_focused</item>
+    <item name="drawable/browsertab_inactive">@drawable/com_android_browser_browsertab_inactive</item>
+    <item name="drawable/progress">@drawable/com_android_browser_progress</item>
+    <item name="drawable/qc_background_normal">@drawable/com_android_browser_qc_background_normal</item>
+    <item name="drawable/tab_nr">@drawable/com_android_browser_tab_nr</item>
+    <item name="drawable/textfield_active_holo_dark">@drawable/com_android_browser_textfield_active_holo_dark</item>
+    <item name="drawable/thumbnail_bookmarks_widget_no_bookmark_holo">@drawable/com_android_browser_thumbnail_bookmarks_widget_no_bookmark_holo</item>
 </resource-redirections>
