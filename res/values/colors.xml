@@ -34,7 +34,7 @@
          a light UI more visible. -->
     <drawable name="screen_background_light_transparent">#80ffffff</drawable>
     <color name="safe_mode_text">#80ffffff</color>
-    <color name="color_primary_focus">#ff99cc00</color>
+    <color name="color_primary_focus">#ff749b15</color>
     <color name="color_primary_press">#ffe0f840</color>
     <color name="white">#ffffffff</color>
     <color name="black">#ff000000</color>
@@ -61,32 +61,32 @@
     <drawable name="input_method_fullscreen_background">#fff9f9f9</drawable>
 
     <!-- For date picker widget -->
-    <drawable name="selected_day_background">#ff0092f4</drawable>
+    <drawable name="selected_day_background">#ff70b919</drawable>
 
     <!-- For settings framework -->
     <color name="lighter_gray">#ddd</color>
     <color name="darker_gray">#aaa</color>
 
     <!-- For security permissions -->
-    <color name="perms_dangerous_grp_color">#ff99cc00</color>
-    <color name="perms_dangerous_perm_color">#ff66cc00</color>
+    <color name="perms_dangerous_grp_color">#ff749b15</color>
+    <color name="perms_dangerous_perm_color">#ff519b15</color>
     <color name="shadow">#cc222222</color>
 
     <!-- Browser -->
-    <color name="browser_bookmarkWidgetHeader">#384738</color>
-    <color name="browser_bookmarkWidgetDivider">#384738</color>
-    <color name="browser_bookmarkWidgetItemBackground">#2b3c2b</color>
-    <color name="browser_bookmarkWidgetFolderBackground">#F0384738</color>
+    <color name="browser_bookmarkWidgetHeader">#323c33</color>
+    <color name="browser_bookmarkWidgetDivider">#323c33</color>
+    <color name="browser_bookmarkWidgetItemBackground">#273127</color>
+    <color name="browser_bookmarkWidgetFolderBackground">#F0323c33</color>
     <color name="browser_qc_normal">#F0749333</color>
     <color name="browser_qc_selected">#F0485a20</color>
     <color name="browser_qc_tab_nr">#F092be32</color>
 
     <!-- Launcher -->
-    <color name="launcher_info_hover_tint">#DA99CC00</color>
+    <color name="launcher_info_hover_tint">#DA749b15</color>
 
-    <color name="androidian_green">#ff99cc00</color>
-    <color name="androidian_green_dark">#ffaadd00</color>
-    <color name="androidian_green_bright">#ff77aa00</color>
+    <color name="androidian_green">#ff92be32</color>
+    <color name="androidian_green_dark">#ff749b15</color>
+    <color name="androidian_green_bright">#ffa4c21a</color>
 
 </resources>
 
